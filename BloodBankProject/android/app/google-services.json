@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523532433273",
+    "firebase_url": "https://online-webandmobile-saylani.firebaseio.com",
+    "project_id": "online-webandmobile-saylani",
+    "storage_bucket": "online-webandmobile-saylani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523532433273:android:04234d9900caccdc1b61a8",
+        "android_client_info": {
+          "package_name": "com.bloodbankproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523532433273-gmnfgghj0ns04p3qrfq9c0ihv2eiakvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC97k2fgB0quRGF4kvqvMA6Pt18wp5xKaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523532433273-gmnfgghj0ns04p3qrfq9c0ihv2eiakvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
